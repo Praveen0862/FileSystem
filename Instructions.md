@@ -1,6 +1,6 @@
 Commands to execute and run the program:
 
-    git clone <url>
+    git clone https://github.com/Praveen0862/FileSystem.git
 
     Make sure that the terminal points to my application directory (fileSystem)
 

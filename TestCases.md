@@ -5,9 +5,9 @@ ls
 
 mkdir user
 
-mkdir user/projects
-
 cd user
+
+mkdir projects
 
 touch projects/me.txt
 
